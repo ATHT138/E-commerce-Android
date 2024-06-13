@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "71035216413",
-    "project_id": "ecommerce-83595",
-    "storage_bucket": "ecommerce-83595.appspot.com"
+    "project_number": "411951651615",
+    "project_id": "e-commerce-glass-1b616",
+    "storage_bucket": "e-commerce-glass-1b616.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:71035216413:android:546901aecd34942dd79cf4",
+        "mobilesdk_app_id": "1:411951651615:android:77025a30e890e2b57b2e2a",
         "android_client_info": {
-          "package_name": "com.example.ecommerce"
+          "package_name": "com.example.e_commerce_glass"
         }
       },
       "oauth_client": [
         {
-          "client_id": "71035216413-31tdbmljcvvfl242n36l0g9c7dl1bspo.apps.googleusercontent.com",
+          "client_id": "411951651615-pcrdb1vjn6dcdj354vobj9hmtkr7kf5a.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDSNoJeCVn7kRLCOnQEhAYazVdS016zaps"
+          "current_key": "AIzaSyCHrf8y4OeunF23950n6uFfxBtYyHa5uNA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "71035216413-31tdbmljcvvfl242n36l0g9c7dl1bspo.apps.googleusercontent.com",
+              "client_id": "411951651615-pcrdb1vjn6dcdj354vobj9hmtkr7kf5a.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
